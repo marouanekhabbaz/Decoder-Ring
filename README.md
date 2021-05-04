@@ -1,9 +1,5 @@
- Decoder-Ring  is an application that will help you encode and decode all kinds of messages
+Developed a Web app that helps users encode and decode all kinds of messages, it gives three options to work with the Caesar cipher, Polybius cipher, and the Substitution cipher.
 
-Installation Instructions
+Built using JavaScript, HTML, and Bootstrap.
 
-Fork this repository by clicking the Fork button at the top right of the page
-Clone this repository.
-cd into the newly created directory.
-Run npm install.
-Run npm start.
+I used the Mocha framework and Chai library for testing.
