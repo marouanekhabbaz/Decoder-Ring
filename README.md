@@ -6,7 +6,7 @@ Built using JavaScript, HTML, and Bootstrap.
 
 I used the Mocha framework and Chai library for testing.
 
-# links: 
+# Links: 
 
 live demo :
 
